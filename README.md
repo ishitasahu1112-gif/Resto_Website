@@ -1,16 +1,45 @@
-# React + Vite
+# The Jhopdi - Restaurant Web App 🛖✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive web application for "The Jhopdi" restaurant, featuring a rustic/boho aesthetic, menu browsing, cart management, and order placement.
 
-Currently, two official plugins are available:
+## 🚀 How to Run Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a web application built with React and Vite. It runs in your terminal, not by clicking a single file.
 
-## React Compiler
+### Prerequisites
+-   [Node.js](https://nodejs.org/) (Version 16 or higher) installed on your computer.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Steps
 
-## Expanding the ESLint configuration
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/ishitasahu1112-gif/Resto_Website.git
+    cd Resto_Website
+    ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2.  **Install Dependencies**:
+    Initialize the project by installing the necessary packages.
+    ```bash
+    npm install
+    ```
+
+3.  **Start the Development Server**:
+    This will launch the website locally.
+    ```bash
+    npm run dev
+    ```
+
+4.  **Open in Browser**:
+    Click the link shown in the terminal (usually `http://localhost:5173`) to view the website.
+
+## 🛠️ Features
+-   **Menu**: Browse Indian, Chinese, and Fast Food dishes.
+-   **Cart**: Add items and manage your order.
+-   **Checkout**: Enter delivery details and simulate payment.
+-   **Profile**: View past orders and order status.
+
+## 📱 Tech Stack
+-   React.js + Vite
+-   Firebase (Auth & Firestore)
+-   Tailwind CSS
+-   Framer Motion
