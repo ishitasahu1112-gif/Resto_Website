@@ -4,7 +4,7 @@ A modern, responsive web application for "The Jhopdi" restaurant, featuring a ru
 
 ## 🌐 Live Demo
 
-**Open the App Live:** [https://antigravity-firebase-72e9d.web.app](https://antigravity-firebase-72e9d.web.app)
+**Open the App Live:** [https://thejhopdi-46c8a.web.app](https://thejhopdi-46c8a.web.app)
 
 No installation required! The app is fully deployed and accessible on the web.
 

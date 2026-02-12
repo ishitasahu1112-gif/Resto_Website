@@ -3,13 +3,13 @@ import { getAuth } from "firebase/auth";
 import { getFirestore, enableIndexedDbPersistence } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBR8J051VHOX-BduceAAR8GqRZPZnil4RE",
-    authDomain: "antigravity-firebase-72e9d.firebaseapp.com",
-    projectId: "antigravity-firebase-72e9d",
-    storageBucket: "antigravity-firebase-72e9d.firebasestorage.app",
-    messagingSenderId: "315031405103",
-    appId: "1:315031405103:web:143939e0aa84dce53f7cda",
-    measurementId: "G-BK2PVR7XQF"
+    apiKey: "AIzaSyBbR9Un5QNrL3pwvdb8ifiJO6YCt0ANvAo",
+    authDomain: "thejhopdi-46c8a.firebaseapp.com",
+    projectId: "thejhopdi-46c8a",
+    storageBucket: "thejhopdi-46c8a.firebasestorage.app",
+    messagingSenderId: "16325634841",
+    appId: "1:16325634841:web:b5245781ac379c8dbef388",
+    measurementId: "G-QMQT4DGSPR"
 };
 
 const app = initializeApp(firebaseConfig);
